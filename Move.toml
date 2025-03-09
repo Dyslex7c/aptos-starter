@@ -1,0 +1,16 @@
+[package]
+name = "simple_counter"
+version = "1.0.0"
+authors = []
+
+[addresses]
+deployer_addr = "0x8d14b2e9913619435a1d66765f99b989472551822bf03c74a008ebd0eeb569de"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
