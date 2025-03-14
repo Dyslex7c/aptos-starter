@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-deployer_addr = "0x8d14b2e9913619435a1d66765f99b989472551822bf03c74a008ebd0eeb569de"
+deployer_addr = "0x87ea95f504a4ff60003fa3751bb055375b83f58c1f6fc371f4040231dc1b25ce"
 
 [dev-addresses]
 
